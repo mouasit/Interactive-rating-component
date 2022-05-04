@@ -26,7 +26,7 @@ function addRating(){
 function clickNumber(){
     listRating.forEach(function(e){
         e.id = false;
-    }); 
+    });
     numberRating = this.innerHTML;
     this.id = "active";
 }
