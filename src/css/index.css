@@ -142,6 +142,6 @@ p{
 @media screen and (max-width: 169px) {
     .container .box{
         justify-content: center;
-        align-items: center;
+        align-items: center; 
     }
 }
