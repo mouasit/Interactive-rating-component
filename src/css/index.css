@@ -85,12 +85,13 @@ p{
 .container .rating .submit{
     background-color: var(--primary-color);
     border: none;
-    padding: 10px;
     color: var(--white);
-    border-radius: 18px;
+    border-radius: 50px;
     font-family: var(--font-family);
     font-weight: bold;
     letter-spacing: .2em;
+    height: 45px;
+    text-align: center;
 }
 
 .container .rating .submit:hover{
