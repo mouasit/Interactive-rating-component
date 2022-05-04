@@ -1,5 +1,5 @@
 # Interactive rating component
-![desktop-preview](https://user-images.githubusercontent.com/75119514/166659945-cd6e80f7-f362-4363-b350-d679e9c02e9e.png)
+![desktop-preview](https://user-images.githubusercontent.com/75119514/166662331-269b844f-065e-4c4a-9592-f288046790f8.png)
 
 ## Overview
 
