@@ -1,7 +1,7 @@
 # Interactive rating component
 ![desktop-preview](https://user-images.githubusercontent.com/75119514/166646548-684abb35-26b6-4f32-82e9-65da44b58c78.png)
 
-## Overview![Uploading desktop-preview.png…]()
+## Overview
 
 Users should be able to:
 
