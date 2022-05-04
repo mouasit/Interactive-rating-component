@@ -1,7 +1,8 @@
 # Interactive rating component
-![desktop-preview](https://user-images.githubusercontent.com/75119514/166662331-269b844f-065e-4c4a-9592-f288046790f8.png)
+![desktop-preview](https://user-images.githubusercontent.com/75119514/166665515-eef622fe-0657-4a53-96b6-a2d9cee01e18.png)
 
 ## Overview
+
 
 
 Users should be able to:
