@@ -1,6 +1,6 @@
 # Interactive rating component
 
-![Design preview for the Notifications page](./design/desktop-preview.png](https://user-images.githubusercontent.com/75119514/166665515-eef622fe-0657-4a53-96b6-a2d9cee01e18.png)
+![Design preview for the Notifications page](./design/desktop-preview.png)
 
 ## Welcome! 👋
 
